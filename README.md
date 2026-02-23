@@ -1,4 +1,4 @@
-# Christmas Shop
+# [Christmas Shop](https://vlmna13.github.io/christmas-shop/home/)
 
 A themed two-page gift shop website with a countdown timer, card shuffling, and product popup — built with pure HTML, CSS, and JavaScript.
 
